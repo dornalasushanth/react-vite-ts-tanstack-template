@@ -5,5 +5,5 @@ export const Route = createFileRoute('/')({
 })
 
 function RouteComponent() {
-  return <div>Hello This is SHADKIT Starter  kit!</div>
+  return <div className="container mx-auto p-6">Hello This is SHADKIT Starter  kit!</div>
 }
