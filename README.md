@@ -12,4 +12,4 @@ This is a base starter project for React using Vite, TypeScript, TanStack Router
 ```bash
 npx degit dornalasushanth/react-vite-ts-tanstack-template my-new-project
 cd my-new-project
-npm install
+yarn
